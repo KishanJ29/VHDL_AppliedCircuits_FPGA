@@ -1,0 +1,38 @@
+{D:/Kishan/VHDL_Project/Seq Mux Integration/count.vhd} {1 {vcom -work work -2002 -explicit {D:/Kishan/VHDL_Project/Seq Mux Integration/count.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity count
+-- Compiling architecture behave of count
+
+} {} {}} {D:/Kishan/VHDL_Project/Seq Mux Integration/mux.vhd} {1 {vcom -work work -2002 -explicit {D:/Kishan/VHDL_Project/Seq Mux Integration/mux.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity mux
+-- Compiling architecture behav of mux
+
+} {} {}} {D:/Kishan/VHDL_Project/Seq Mux Integration/fulladder.vhd} {1 {vcom -work work -2002 -explicit {D:/Kishan/VHDL_Project/Seq Mux Integration/fulladder.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity fulladder
+-- Compiling architecture behave of fulladder
+
+} {} {}} {D:/Kishan/VHDL_Project/Seq Mux Integration/halfadder.vhd} {1 {vcom -work work -2002 -explicit {D:/Kishan/VHDL_Project/Seq Mux Integration/halfadder.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity halfadder
+-- Compiling architecture behave of halfadder
+
+} {} {}} {D:/Kishan/VHDL_Project/Seq Mux Integration/integ.vhd} {1 {vcom -work work -2002 -explicit {D:/Kishan/VHDL_Project/Seq Mux Integration/integ.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity integ
+-- Compiling architecture behave of integ
+
+} {} {}}
